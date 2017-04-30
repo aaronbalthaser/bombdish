@@ -1,0 +1,3 @@
+rootProject.name = 'bombdish'
+
+include ':app'
